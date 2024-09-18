@@ -7,3 +7,11 @@ https://tailwindcss.com/docs/installation
 ```
 . ./init.sh
 ```
+
+# 02-feat: start
+
+修改 tailwind.config.js 便于 tree shaking
+
+```
+. ./start.sh
+```
